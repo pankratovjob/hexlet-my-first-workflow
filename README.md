@@ -1,0 +1,1 @@
+[![say-hello](https://github.com/pankratovjob/hexlet-my-first-workflow/actions/workflows/sayHello.yml/badge.svg)](https://github.com/pankratovjob/hexlet-my-first-workflow/actions/workflows/sayHello.yml)
